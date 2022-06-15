@@ -2,7 +2,7 @@
 	"ads": 
 	{
 	  "interval_awal": 2,
-	  "splash_ad": "off",
+	  "splash_ad": "auto",
 	  "banner_ad": "auto",
 	  "inter_ad": "auto",
 	  "app_live_store": "auto",
