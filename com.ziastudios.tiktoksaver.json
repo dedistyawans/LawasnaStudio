@@ -1,0 +1,48 @@
+{
+	"ads": 
+	{
+	  "interval_awal": 2,
+	  "splash_ad": "auto",
+	  "banner_ad": "auto",
+	  "inter_ad": "auto",
+	  "app_live_store": "auto",
+	  
+	  "iron_appkey": "ironAppKey",
+	  "kemungkinan_iron": 0,
+	  "interval_iron": 3,
+	  "minimum_time_iron": 60,
+		
+	  "fan_banner": "fanBanner",
+	  "fan_inter": "interFan",
+	  "kemungkinan_fan": 0,
+	  "interval_fan": 3,
+	  "minimum_time_fan": 60,
+		
+	  "unity_game_id": "unityGamneId",
+	  "unity_banner": "unityBanner",
+	  "unity_inter": "unityInter",
+	  "kemungkinan_unity": 0,
+	  "interval_unity": 4,
+	  "minimum_time_unity": 60,
+	  
+	  "admob_open": "ca-app-pub-3940256099942544/3419835294",
+	  "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+	  "admob_inter": "ca-app-pub-3940256099942544/10331737xx",
+	  "kemungkinan_admob": 0,
+	  "interval_admob": 4,
+	  "minimum_time_admob": 61,
+	  
+	  "max_banner": "1532e336e4c5b695",
+	  "max_inter": "160cc5167f8e611a",
+	  "kemungkinan_max": 80,
+	  "interval_max": 5,
+	  "minimum_time_max": 60,
+	  
+	  "startapp_id": "205839419",
+	  "kemungkinan_startapp": 20,
+	  "interval_startapp": 3,
+	  "minimum_time_startapp": 30,
+	  
+	  "shopee_aff": "https://shope.ee/6Ujv6Br5vM"
+	}
+}
